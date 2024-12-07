@@ -13,3 +13,4 @@ We have identified an error in the figures 8, 10 and 11 in our article, which is
 
 We sincerely apologize for this oversight. The corrected figure is provided in the file "corrected_figures.PDF" for reference.
 
+![image](https://github.com/dirge1/FBM_ADT/blob/main/corrected_figures/fig.10.png)
