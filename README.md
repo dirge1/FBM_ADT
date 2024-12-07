@@ -20,4 +20,4 @@ Fig. 8. Prediction for the deterministic degradation trend under all stress leve
 Fig. 10. Prediction for the cross-validation 1: (a) deterministic degradation trend
 
 ![image](https://github.com/dirge1/FBM_ADT/blob/main/corrected_figures/fig.11.png)
-Fig. 11. Prediction for the cross-validation 1: (a) deterministic degradation trend
+Fig. 11. Prediction for the cross-validation 2: (a) deterministic degradation trend
