@@ -13,5 +13,11 @@ We have identified an error in the figures 8, 10 and 11 in our article, which is
 
 We sincerely apologize for this oversight. The corrected figure is provided below for reference.
 
+![image](https://github.com/dirge1/FBM_ADT/blob/main/corrected_figures/fig.8.png)
+Fig. 8. Prediction for the deterministic degradation trend under all stress levels.
+
 ![image](https://github.com/dirge1/FBM_ADT/blob/main/corrected_figures/fig.10.png)
 Fig. 10. Prediction for the cross-validation 1: (a) deterministic degradation trend
+
+![image](https://github.com/dirge1/FBM_ADT/blob/main/corrected_figures/fig.11.png)
+Fig. 11. Prediction for the cross-validation 1: (a) deterministic degradation trend
