@@ -11,6 +11,7 @@ In the folder, main_sim_FBM_utuv.m is the proposed model M0; main_sim_FBM is the
 
 We have identified an error in the figures 8, 10 and 11 in our article, which is related to the illustration of the deterministic trend of the degradation prediction. This error affected only the figures. The numerical results in the tables and conclusions of the study remain accurate.
 
-We sincerely apologize for this oversight. The corrected figure is provided in the file "corrected_figures.PDF" for reference.
+We sincerely apologize for this oversight. The corrected figure is provided below for reference.
 
 ![image](https://github.com/dirge1/FBM_ADT/blob/main/corrected_figures/fig.10.png)
+Fig. 10. Prediction for the cross-validation 1: (a) deterministic degradation trend
