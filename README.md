@@ -1,6 +1,13 @@
 # FBM_ADT
 This is the source code of the paper "Reliability modeling and statistical analysis of accelerated degradation testing with memory effects and unit-to-unit variability"
 
+Highlights:
+• A non-Markovian accelerated degradation model with memory effect is developed.
+• Unit-to-unit variability is considered in the accelerated degradation model.
+• Ignoring unit-to-unit variability leads to biased estimation of the memory effect.
+• A statistical analysis method is proposed via expectation maximization algorithm.
+• The proposed statistical analysis method gives a more accurate estimation.
+
 Paper link: https://www.sciencedirect.com/science/article/pii/S0307904X24005419
 
 The folder "code_simulation" contains the source code of the simulation study.
