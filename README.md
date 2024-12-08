@@ -7,7 +7,7 @@ The folder "code_simulation" contains the source code of the simulation study.
 
 In the folder, main_sim_FBM_utuv.m is the proposed model M0; main_sim_FBM is the model M1; main_sim_BM_utuv.m is the model M2; main_sim_BM is the model M3.
 
-## **Attention!**
+## **Attention!** **Corrigendum**
 
 We have identified an error in the figures 8, 10 and 11 in our article, which is related to the illustration of the deterministic trend of the degradation prediction. This error was accidentally introduced due to the picture modification in the revision process, and affected only the pictures. The numerical results in the tables and conclusions remain accurate.
 
