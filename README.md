@@ -3,9 +3,13 @@ This is the source code of the paper "Reliability modeling and statistical analy
 
 Highlights:
 • A non-Markovian accelerated degradation model with memory effect is developed.
+
 • Unit-to-unit variability is considered in the accelerated degradation model.
+
 • Ignoring unit-to-unit variability leads to biased estimation of the memory effect.
+
 • A statistical analysis method is proposed via expectation maximization algorithm.
+
 • The proposed statistical analysis method gives a more accurate estimation.
 
 Paper link: https://www.sciencedirect.com/science/article/pii/S0307904X24005419
