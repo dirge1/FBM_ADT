@@ -17,7 +17,7 @@ Paper link: https://www.sciencedirect.com/science/article/pii/S0307904X24005419
 
 The folder "code_simulation" contains the source code of the simulation study.
 
-In the folder, `main_sim_FBM_utuv.m` is the proposed model M0; main_sim_FBM is the model M1; main_sim_BM_utuv.m is the model M2; main_sim_BM is the model M3.
+In the folder, `main_sim_FBM_utuv.m` is the proposed model M0; `main_sim_FBM` is the model M1; `main_sim_BM_utuv.m` is the model M2; `main_sim_BM` is the model M3.
 
 ## **Attention!** **Corrigendum**
 
