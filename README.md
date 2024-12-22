@@ -2,6 +2,7 @@
 This is the source code of the paper "Reliability modeling and statistical analysis of accelerated degradation testing with memory effects and unit-to-unit variability"
 
 Highlights:
+
 • A non-Markovian accelerated degradation model with memory effect is developed.
 
 • Unit-to-unit variability is considered in the accelerated degradation model.
