@@ -1,6 +1,10 @@
 # FBM_ADT
 This is the source code of the paper "Reliability modeling and statistical analysis of accelerated degradation process with memory effects and unit-to-unit variability"
 
+Ref:
+
+Chen, Shi-Shun, Xiao-Yang Li, and Wen-Rui Xie. "Reliability modeling and statistical analysis of accelerated degradation process with memory effects and unit-to-unit variability." Applied Mathematical Modelling 138 (2025): 115788.
+
 Highlights:
 
 • A non-Markovian accelerated degradation model with memory effect is developed.
