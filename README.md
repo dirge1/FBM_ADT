@@ -9,7 +9,7 @@ Chen, Shi-Shun, Xiao-Yang Li, and Wen-Rui Xie. "Reliability modeling and statist
 
 PDF: https://dirge1.github.io/shishun_chen.github.io/papers/Chen2025_AMM_ADT.pdf
 
-Paper link: https://linkinghub.elsevier.com/retrieve/pii/S0307904X24005419
+Paper link: https://www.sciencedirect.com/science/article/pii/S0307904X24005419
 
 ## Highlights
 
