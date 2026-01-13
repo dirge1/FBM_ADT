@@ -3,6 +3,8 @@ This is the source code of the paper "Reliability modeling and statistical analy
 
 If you find the code useful, please give a star :)
 
+PDF: https://dirge1.github.io/shishun_chen.github.io/papers/Chen2025_AMM_ADT.pdf
+
 ## Ref
 
 Chen, Shi-Shun, Xiao-Yang Li, and Wen-Rui Xie. "Reliability modeling and statistical analysis of accelerated degradation process with memory effects and unit-to-unit variability." Applied Mathematical Modelling 138 (2025): 115788.
