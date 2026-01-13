@@ -5,7 +5,7 @@ If you find the code useful, please give a star :)
 
 ## Ref
 
-Chen, Shi-Shun, Xiao-Yang Li, and Wen-Rui Xie. "Reliability modeling and statistical analysis of accelerated degradation process with memory effects and unit-to-unit variability." Applied Mathematical Modelling 138 (2025): 115788.
+Chen, Shi-Shun, Xiao-Yang Li and Wen-Rui Xie. Reliability modeling and statistical analysis of accelerated degradation process with memory effects and unit-to-unit variability. Applied Mathematical Modelling, 2025, 138: 115788.
 
 PDF: https://dirge1.github.io/shishun_chen.github.io/papers/Chen2025_AMM_ADT.pdf
 
