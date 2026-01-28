@@ -23,7 +23,7 @@ Paper link: https://www.sciencedirect.com/science/article/pii/S0307904X24005419
 
 • The proposed statistical analysis method gives a more accurate estimation.
 
-Paper link: https://www.sciencedirect.com/science/article/pii/S0307904X24005419
+
 
 The folder "code_simulation" contains the source code of the simulation study.
 
